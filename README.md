@@ -6,7 +6,7 @@
 
 #### Disciplina de Pensamento Computacional - 1º A
 
-**Projeto:** *Restaurante NaVegano*
+**Projeto:** *Pizzaria sem glútem*
 
 ***participantes***
 
